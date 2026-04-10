@@ -1,0 +1,7 @@
+{
+  "name": "NeuroVision ML Dashboard",
+  "description": "A comprehensive end-to-end Machine Learning platform for creating, training, evaluating, and deploying custom object detection models using Deep Learning and Gemini Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
