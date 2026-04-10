@@ -61,9 +61,15 @@ npm run dev
 
 ## 🌐 Live Deployment
 This project is continuously deployed to GitHub Pages automatically via Actions.
-You can experience the latest live version here:
+Experience the fully functional live application today:
 
-👉 **[Launch NeuroVision Dashboard](https://YashwanthNavari.github.io/nuerovision-ml-platform/)**
+<br/>
+<div align="center">
+  <a href="https://YashwanthNavari.github.io/nuerovision-ml-platform/">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🚀%20CLICK%20ME%20TO%20LAUNCH%20LIVE%20DASHBOARD!&fontSize=30&animation=twinkling&fontColor=ffffff" alt="Click Me To Launch" />
+  </a>
+</div>
+<br/>
 
 <br/>
 
