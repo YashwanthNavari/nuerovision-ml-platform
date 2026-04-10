@@ -21,9 +21,7 @@
   </p>
   
   <br/>
-  
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="Dashboard Preview" width="850" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
   </p>
 </div>
 
@@ -53,7 +51,6 @@ Create a `.env.local` file and add your Gemini API Key:
 ```env
 GEMINI_API_KEY=your-api-key-here
 ```
-> **Note:** You can view or configure your app in AI Studio [**here**](https://ai.studio/apps/drive/18RbCX4YykN8mH-x3zJbN70EfI4p79x2I).
 
 ### 3. Run the App
 ```bash
